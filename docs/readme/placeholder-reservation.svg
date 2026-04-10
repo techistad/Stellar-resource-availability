@@ -1,0 +1,42 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" rx="36" fill="#08131E"/>
+  <rect x="32" y="32" width="1536" height="836" rx="30" fill="url(#paint0_linear)"/>
+  <circle cx="1278" cy="168" r="184" fill="url(#paint1_radial)" fill-opacity="0.78"/>
+  <circle cx="344" cy="760" r="224" fill="url(#paint2_radial)" fill-opacity="0.48"/>
+  <rect x="112" y="112" width="1376" height="676" rx="30" fill="#F7FAFD"/>
+  <rect x="112" y="112" width="1376" height="118" rx="30" fill="#EAF4FB"/>
+  <rect x="148" y="154" width="318" height="28" rx="14" fill="#0F766E"/>
+  <rect x="1210" y="148" width="192" height="48" rx="24" fill="#DCFCE7"/>
+  <rect x="148" y="276" width="912" height="424" rx="28" fill="#FFFFFF" stroke="#D2DEE9"/>
+  <rect x="1096" y="276" width="356" height="180" rx="26" fill="#FFFFFF" stroke="#D2DEE9"/>
+  <rect x="1096" y="480" width="356" height="180" rx="26" fill="#0B1723"/>
+  <rect x="190" y="320" width="208" height="22" rx="11" fill="#0F766E"/>
+  <rect x="190" y="362" width="688" height="62" rx="18" fill="#F7FAFD" stroke="#D2DEE9"/>
+  <rect x="190" y="452" width="308" height="22" rx="11" fill="#0F766E"/>
+  <rect x="190" y="494" width="324" height="66" rx="20" fill="#F7FAFD" stroke="#D2DEE9"/>
+  <rect x="554" y="494" width="324" height="66" rx="20" fill="#F7FAFD" stroke="#D2DEE9"/>
+  <rect x="190" y="600" width="216" height="60" rx="30" fill="#0F766E"/>
+  <rect x="426" y="600" width="224" height="60" rx="30" fill="#DC2626" fill-opacity="0.12" stroke="#F39B9B"/>
+  <rect x="670" y="600" width="248" height="60" rx="30" fill="#0EA5E9" fill-opacity="0.12" stroke="#8AD6FF"/>
+  <rect x="1130" y="314" width="150" height="20" rx="10" fill="#0F766E"/>
+  <rect x="1130" y="352" width="180" height="56" rx="16" fill="#F7FAFD" stroke="#D2DEE9"/>
+  <rect x="1130" y="516" width="126" height="20" rx="10" fill="#8EE6DC"/>
+  <rect x="1130" y="556" width="288" height="76" rx="16" fill="#09111A" stroke="#16A34A"/>
+  <text x="148" y="184" fill="#0B1723" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700">README Placeholder 02</text>
+  <text x="148" y="744" fill="#0B1723" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="700">Replace this with a reservation flow screenshot</text>
+  <text x="148" y="798" fill="#4E647D" font-family="Segoe UI, Arial, sans-serif" font-size="24">Suggested use: wallet state, reservation controls, output panel, or transaction success screen.</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="800" y1="32" x2="800" y2="868" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1D2F"/>
+      <stop offset="1" stop-color="#0F3146"/>
+    </linearGradient>
+    <radialGradient id="paint1_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1278 168) rotate(90) scale(184)">
+      <stop stop-color="#0EA5E9"/>
+      <stop offset="1" stop-color="#0EA5E9" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="paint2_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(344 760) rotate(90) scale(224)">
+      <stop stop-color="#10B981"/>
+      <stop offset="1" stop-color="#10B981" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>

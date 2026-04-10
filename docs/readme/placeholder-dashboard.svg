@@ -1,0 +1,42 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" rx="36" fill="#07111C"/>
+  <rect x="32" y="32" width="1536" height="836" rx="30" fill="url(#paint0_linear)"/>
+  <circle cx="1376" cy="174" r="176" fill="url(#paint1_radial)" fill-opacity="0.7"/>
+  <circle cx="250" cy="720" r="220" fill="url(#paint2_radial)" fill-opacity="0.45"/>
+  <rect x="112" y="112" width="840" height="676" rx="28" fill="#081723" fill-opacity="0.88" stroke="#28455B"/>
+  <rect x="996" y="112" width="492" height="208" rx="28" fill="#143042" fill-opacity="0.92" stroke="#3E617A"/>
+  <rect x="996" y="344" width="492" height="208" rx="28" fill="#143042" fill-opacity="0.92" stroke="#3E617A"/>
+  <rect x="996" y="576" width="492" height="212" rx="28" fill="#143042" fill-opacity="0.92" stroke="#3E617A"/>
+  <rect x="112" y="112" width="840" height="92" rx="24" fill="#0D2131"/>
+  <rect x="112" y="240" width="840" height="548" rx="28" fill="#0A1825"/>
+  <rect x="156" y="284" width="350" height="26" rx="13" fill="#8EE6DC"/>
+  <rect x="156" y="332" width="520" height="70" rx="18" fill="#F0F6FF" fill-opacity="0.95"/>
+  <rect x="156" y="426" width="448" height="24" rx="12" fill="#DDEBFF" fill-opacity="0.7"/>
+  <rect x="156" y="488" width="172" height="54" rx="27" fill="#0F766E"/>
+  <rect x="348" y="488" width="196" height="54" rx="27" fill="#0EA5E9" fill-opacity="0.18" stroke="#59C4FF"/>
+  <rect x="564" y="488" width="224" height="54" rx="27" fill="#DC2626" fill-opacity="0.18" stroke="#FF8C8C"/>
+  <rect x="156" y="598" width="742" height="142" rx="24" fill="#112435" stroke="#28455B"/>
+  <rect x="1028" y="150" width="168" height="22" rx="11" fill="#8EE6DC"/>
+  <rect x="1028" y="190" width="112" height="58" rx="16" fill="#F0F6FF" fill-opacity="0.95"/>
+  <rect x="1028" y="382" width="190" height="22" rx="11" fill="#8EE6DC"/>
+  <rect x="1028" y="420" width="238" height="58" rx="16" fill="#F0F6FF" fill-opacity="0.95"/>
+  <rect x="1028" y="614" width="180" height="22" rx="11" fill="#8EE6DC"/>
+  <rect x="1028" y="654" width="388" height="96" rx="18" fill="#09111A" stroke="#1B9C76"/>
+  <text x="156" y="180" fill="#DCEBFF" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700">README Placeholder 01</text>
+  <text x="156" y="635" fill="#DCEBFF" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="700">Replace this with a dashboard screenshot</text>
+  <text x="156" y="690" fill="#8FA7BF" font-family="Segoe UI, Arial, sans-serif" font-size="24">Suggested use: hero image, full-page UI preview, or app overview shot.</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="800" y1="32" x2="800" y2="868" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A1A2B"/>
+      <stop offset="1" stop-color="#0E2A3D"/>
+    </linearGradient>
+    <radialGradient id="paint1_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1376 174) rotate(90) scale(176)">
+      <stop stop-color="#0EA5E9"/>
+      <stop offset="1" stop-color="#0EA5E9" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="paint2_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(250 720) rotate(90) scale(220)">
+      <stop stop-color="#0F766E"/>
+      <stop offset="1" stop-color="#0F766E" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>
