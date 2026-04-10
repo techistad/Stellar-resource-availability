@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./docs/readme/placeholder-dashboard.svg" alt="Placeholder dashboard preview" width="48%" />
-  <img src="./docs/readme/placeholder-reservation.svg" alt="Placeholder reservation preview" width="48%" />
+<img width="1919" height="1079" alt="Screenshot 2026-04-10 115551" src="https://github.com/user-attachments/assets/5a561c08-6c26-4ae7-93d9-31d138c351a4" />
+  <h1 align="center">Stellar Expert dashboard</h1>
+<img width="1918" height="1041" alt="Screenshot 2026-04-10 113358" src="https://github.com/user-attachments/assets/a7266a83-5387-4662-a2c6-bfb5ff3a1907" />
 </p>
 
 <h1 align="center">Stellar Resource Availability Dashboard</h1>
@@ -21,6 +22,10 @@
 
 - Stellar Expert: https://stellar.expert/explorer/testnet/contract/CB3YQNIRZMEPO2WMXZL4M6SSBRZ3NNKSO4EXOKTPDCBRRQ674WG73PZX
 - Contract ID: `CB3YQNIRZMEPO2WMXZL4M6SSBRZ3NNKSO4EXOKTPDCBRRQ674WG73PZX`
+
+## Freighter wallet address
+
+- Freighter wallet ID: `GDT37UGSKAIKDUGC73VHAI6HASL27O5YTCHONKRIIH7AJBMBIQPWRVX3`
 
 ## Overview
 
@@ -167,15 +172,6 @@ Configuration currently lives in [`lib/stellar.js`](./lib/stellar.js), including
 4. Reserve it with a time window.
 5. Check availability or fetch resource data.
 6. Release the reservation when needed.
-
-## Placeholder Images
-
-The two preview images at the top are placeholder SVGs stored here:
-
-- `docs/readme/placeholder-dashboard.svg`
-- `docs/readme/placeholder-reservation.svg`
-
-You can replace those files later with real screenshots while keeping the same paths, and the README will update automatically.
 
 ## Notes
 
